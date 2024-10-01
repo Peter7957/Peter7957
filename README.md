@@ -2,8 +2,6 @@
 
 # Finalmente voy a ocupar Github 
 
-Este ocupa markdown, ubico algunos comandos por usar de ves en cuando obsidian
-
 <!--
 **Peter7957/Peter7957** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
